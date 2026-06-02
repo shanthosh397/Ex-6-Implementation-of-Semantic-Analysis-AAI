@@ -1,9 +1,9 @@
-<H3 ALIGN=RIGHT> DATE:<H3>
 
-<H1 ALIGN=CENTER> Experiment-6: Implementation of Semantic Analysis </H1>
 
-### Name: 
-### Register Number:
+# Experiment-6: Implementation of Semantic Analysis </H1>
+
+### Name: Shanthosh G
+### Register Number:2305003008
 
 ## Aim: 
 
@@ -59,7 +59,11 @@ print ( "Antonyms : " ,set(antonyms) )
 
 ## Output:
 
----
+<img width="835" height="52" alt="image" src="https://github.com/user-attachments/assets/fd0d7125-7407-4dfc-bc06-fda3cdc71ff6" />
+<img width="838" height="50" alt="image" src="https://github.com/user-attachments/assets/9e16b62b-d166-41bf-b3a8-0375d33f5f00" />
+<img width="835" height="162" alt="image" src="https://github.com/user-attachments/assets/200c4d7c-1226-4c0d-8502-3bd64ecbe34d" />
+<img width="845" height="52" alt="image" src="https://github.com/user-attachments/assets/d7caacfa-3f15-4022-9afa-a24b580b3b1e" />
+
 
 ## Result:
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
